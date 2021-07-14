@@ -1,0 +1,21 @@
+body {
+    background-color: silver;
+    display: flex;
+}
+
+.basic-info {
+    border: 2px outset burlywood;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: skyblue;
+    margin-right: 50px;
+    
+}
+img {
+    border: 2px solid  blue;
+    border-radius: 3px;
+}
+
+h4 {
+    text-decoration: underline;
+}
